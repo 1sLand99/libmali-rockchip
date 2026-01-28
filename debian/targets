@@ -118,6 +118,13 @@ arm-linux-gnueabihf/libmali-utgard-400-r7p0-r3p0-wayland-gbm.so
 arm-linux-gnueabihf/libmali-utgard-450-r7p0-gbm.so
 arm-linux-gnueabihf/libmali-utgard-450-r7p0-wayland-gbm.so
 arm-linux-gnueabihf/libmali-utgard-450-r7p0-x11-gbm.so
+arm-linux-gnueabihf/libmali-valhall-g310-g29p1-dummy-gbm.so
+arm-linux-gnueabihf/libmali-valhall-g310-g29p1-dummy-wayland-gbm.so
+arm-linux-gnueabihf/libmali-valhall-g310-g29p1-dummy.so
+arm-linux-gnueabihf/libmali-valhall-g310-g29p1-gbm.so
+arm-linux-gnueabihf/libmali-valhall-g310-g29p1-wayland-gbm.so
+arm-linux-gnueabihf/libmali-valhall-g310-g29p1-x11-gbm.so
+arm-linux-gnueabihf/libmali-valhall-g310-g29p1-x11-wayland-gbm.so
 arm-linux-gnueabihf/libmali-valhall-g610-g13p0-dummy.so
 arm-linux-gnueabihf/libmali-valhall-g610-g13p0-gbm.so
 arm-linux-gnueabihf/libmali-valhall-g610-g13p0-wayland-gbm.so
