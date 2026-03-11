@@ -443,6 +443,62 @@ Replaces: libmali
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: Mali GPU User-Space Binary Drivers
 
+Package: libmali-valhall-g310-g29p1-dummy
+Architecture: armhf arm64
+Provides: libmali
+Conflicts: libmali
+Replaces: libmali
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Mali GPU User-Space Binary Drivers
+
+Package: libmali-valhall-g310-g29p1-dummy-gbm
+Architecture: armhf arm64
+Provides: libmali
+Conflicts: libmali
+Replaces: libmali
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Mali GPU User-Space Binary Drivers
+
+Package: libmali-valhall-g310-g29p1-dummy-wayland-gbm
+Architecture: armhf arm64
+Provides: libmali
+Conflicts: libmali
+Replaces: libmali
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Mali GPU User-Space Binary Drivers
+
+Package: libmali-valhall-g310-g29p1-gbm
+Architecture: armhf arm64
+Provides: libmali
+Conflicts: libmali
+Replaces: libmali
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Mali GPU User-Space Binary Drivers
+
+Package: libmali-valhall-g310-g29p1-wayland-gbm
+Architecture: armhf arm64
+Provides: libmali
+Conflicts: libmali
+Replaces: libmali
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Mali GPU User-Space Binary Drivers
+
+Package: libmali-valhall-g310-g29p1-x11-gbm
+Architecture: armhf arm64
+Provides: libmali
+Conflicts: libmali
+Replaces: libmali
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Mali GPU User-Space Binary Drivers
+
+Package: libmali-valhall-g310-g29p1-x11-wayland-gbm
+Architecture: armhf arm64
+Provides: libmali
+Conflicts: libmali
+Replaces: libmali
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Mali GPU User-Space Binary Drivers
+
 Package: libmali-valhall-g610-g13p0-dummy
 Architecture: armhf arm64
 Provides: libmali
